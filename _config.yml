@@ -3,8 +3,9 @@ plugins:
 - jekyll-remote-theme 
 
 
-title: Huili Han
-description: my website
+title: Loan Prediction Based on Customer Behavior
+
+description: group 11 website
 
 show_downloads: ["true"]
 
