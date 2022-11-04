@@ -4,7 +4,7 @@ Predict who possible Defaulters are for the Consumer Loans Product
 
 # PPT
 
-[presentation](https://github.com/huilihan123/Final_Project_Team11/blob/main/Group%2011.pptx)
+[presentation slides](https://github.com/huilihan123/Final_Project_Team11/blob/main/Group%2011.pptx)
 
 # 1. Data set description
 
