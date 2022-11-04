@@ -7,26 +7,26 @@ Predict who possible Defaulters are for the Consumer Loans Product
 
 ## 1.1 Research Background
 
-An organization wants to predict who possible defaulters are for the consumer loans product. They have data about historic customer behavior based on what they have observed. Hence when they acquire new customers they want to predict who is riskier and who is not.
+* An organization wants to predict who possible defaulters are for the consumer loans product. They have data about historic customer behavior based on what they have observed. Hence when they acquire new customers they want to predict who is riskier and who is not.
 
 ## 1.2 Research Purpose
 
-Based on historical data, our group explore the factors that influence default rate, such as job seniority, asset ownership and age range.
+* Based on historical data, our group explore the factors that influence default rate, such as job seniority, asset ownership and age range.
 
-* Commercial Value
+## 1.3 Commercial Value
 
-The research is helpful for enterprises to assess the risks of product delivery objects according to their attributes.
+* The research is helpful for enterprises to assess the risks of product delivery objects according to their attributes.
 
-## 1.3 Research Scope & Object
+## 1.4 Research Scope & Object
 
 The data set covers 26 states around the world, including groups with an annual income between 10 thousands and 10 millions. 
 
 ![fig 1-1](dataset1.png)
 ![fig 1-2](pic14.png)
 
-## 1.4 Attributes of Dataset
+## 1.5 Attributes of Dataset
 The dataset contains 11 different attributes:
-![fig 1-3](pic3.png)
+![fig 1-3](pic3.jpg)
 Our research mainly focus on the impact of income, age, job qualifications, marital status and ownership factors on the risk of default. 
 
 ## Data Set Link
