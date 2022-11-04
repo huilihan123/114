@@ -2,8 +2,16 @@
  
 Predict who possible Defaulters are for the Consumer Loans Product
 
-# PPT
+## Team
+huili Han, jiazheng Qian 
 
+## Data Set Link
+<https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior>
+
+## Data App
+<https://jiazhengqian-qjz-website-final-project-new-0059ne.streamlit.app/>
+
+## PPT
 [presentation slides](https://github.com/huilihan123/Final_Project_Team11/blob/main/Group%2011.pptx)
 
 # 1. Data set description
@@ -32,8 +40,7 @@ Predict who possible Defaulters are for the Consumer Loans Product
 ![fig 1-3](pic3.jpg)
 * Our research mainly focus on the impact of income, age, job qualifications, marital status and ownership factors on the risk of default. 
 
-## Data Set Link
-<https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior>
+
 
 # 2. Problem Analysis
 
@@ -76,6 +83,4 @@ Predict who possible Defaulters are for the Consumer Loans Product
 * Score for the training data set : 98.29%
 * Score for the testing data set : 87.87%
 
-# Data App
-<http://128.175.145.11:8501>
 
