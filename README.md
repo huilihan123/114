@@ -2,6 +2,7 @@
  
 Predict who possible Defaulters are for the Consumer Loans Product
 
+# PPT
 
 # 1. Data set description
 
@@ -49,20 +50,20 @@ Predict who possible Defaulters are for the Consumer Loans Product
 * Marital status and asset ownership (house and car) are correlated with default rate, and groups with lack of asset ownership or single marital status are more likely to be default.
 
 ## 2.2 Relationship Between Profession Experience and Default Possibility
-![这是图片](pic15.png )
+![fig 2-1](pic15.png )
 * The figure shows that there is a significant negative correlation between years of work experience and default rate. 
 
 * The group with 0-4 years of work experience had the highest default rate (15.716%), and the group with 16-20 years of work experience had the lowest default rate (11.214%).
 
 ## 2.3 Default Ratio of Different Age Groups
-![这是图片](pic16.png )
+![fig 2-2](pic16.png )
 * The picture does not show a clear relationship between default rates and age
 
 * The default rate is the lowest in 60-70 age group(10.138%) and the highest in20-30 age group(14.504%).The gap between the default rate of 40-50 and 50-60 age groups is small(about 0.0004948).
 
 # 3. Further study
 ***
-![这是图片](pic17.jpg)
+![fig 2-3](pic17.jpg)
 * Algorithm:Using the random forest algorithm to rank the importance of some features 
 * The importance of these features on the impact of loan default results is ranked as follows:
 1. Income
@@ -73,5 +74,6 @@ Predict who possible Defaulters are for the Consumer Loans Product
 * Score for the training data set : 98.29%
 * Score for the testing data set : 87.87%
 
-# Website 
+# Data App
 <http://128.175.145.11:8501>
+
