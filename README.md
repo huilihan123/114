@@ -18,8 +18,12 @@ The research is helpful for enterprises to assess the risks of product delivery 
 
 The data set covers 26 states around the world, including groups with an annual income between 10 thousands and 10 millions. 
 
-![fig 1-1](/exercises/114/dataset1.png "Fig 1-1 The Research Scope of Dataset")
+![fig 1-1](dataset1.png)
 ![fig 1-2](/exercises/114/pic14.png "Fig 1-2 The Research Objects of Dataset")
+
+# Attributes of Dataset
+The dataset contains 11 different attributes:
+
 
 # Data Set Link 
 
